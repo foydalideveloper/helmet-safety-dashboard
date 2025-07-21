@@ -1,0 +1,16 @@
+# Ignore the virtual environment
+python_helmet/
+
+# Ignore datasets (zip and folder)
+*.zip
+Combined-Helmet-Safety.v1i.yolov8/
+
+# Ignore generated files and folders
+runs/
+violation_snapshots/
+detection_output.mp4
+*.db
+
+# Ignore system files
+.DS_Store
+__pycache__/

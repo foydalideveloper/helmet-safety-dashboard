@@ -1,0 +1,6 @@
+ultralytics
+gradio
+opencv-python
+pandas
+plotly
+numpy==1.26.4  
